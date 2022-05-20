@@ -1,0 +1,23 @@
+.home_footer_container{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 167px;
+  background: transparent linear-gradient(180deg, #C2E3F3 0%, #6AA3C1 100%) 0% 0% no-repeat padding-box;
+  box-shadow: 4px 6px 23px #A9A9A911;
+  padding-right: 70px;
+}
+
+.home_footer_text{
+  position: relative;
+  left: 166px;
+  top:52px;
+  padding-bottom: 10px;
+}
+
+.home_footer_image{
+  width: 566px ;
+  margin-top: -60px;
+
+}

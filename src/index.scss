@@ -1,0 +1,19 @@
+
+/*abstracts*/
+@use './scss/abstracts/vars';
+@use './scss/abstracts/mix';
+
+/*base*/
+
+@use './scss/base/base';
+@use './scss/base/resets';
+
+@import "./scss/abstracts/vars.scss";
+
+/*components*/
+
+@import './scss/components/menu';
+@import './scss/components/banner';
+@import './scss/components/body';
+@import './scss/components/footer';
+@import './scss/components/recipecart';

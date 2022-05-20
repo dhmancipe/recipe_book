@@ -1,0 +1,20 @@
+.home_body_tittle{
+  position: relative;
+
+  top:25px;
+  padding-bottom: 50px;
+}
+
+.home_body_content{
+  padding-left: 70px;
+  padding-right: 50px;
+
+}
+.home_body_queryresult{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-bottom: 68px;
+}

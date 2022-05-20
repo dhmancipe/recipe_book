@@ -1,0 +1,51 @@
+
+.menu_container_base {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 0px 3px 6px #8395A7;
+}
+.menu_logo_container{
+  padding-top:  11px;
+  padding-left:  70px;
+  padding-bottom: 10px;
+}
+
+.menu_logo_italics {
+
+  color: var(--grey);
+  text-align: left;
+  font: normal normal normal 40px/48px MonsterClubhouse;
+  letter-spacing: 1.15px;
+  text-transform: capitalize;
+
+}
+
+.menu_logo_poppins {
+
+  color: var(--red);
+  text-align: left;
+  font: normal normal normal 30px/46px var(--poppins);
+  letter-spacing: 0.86px;
+
+}
+.menu_item_base{
+  margin-left: 45px;
+  color: var(--grey);
+  text-align: left;
+
+  letter-spacing: 0px;
+}
+
+.menu_list_items{
+
+  padding-top: 22px;
+  display: flex;
+  flex-direction: row;
+  margin-right: 65px;
+
+}
+.menu_item_text{
+  font-size: 13px;
+  font-weight: 500;
+}

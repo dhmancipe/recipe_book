@@ -1,0 +1,44 @@
+html, body{
+  font-family:var(--poppins);
+}
+h1{
+
+  font: normal normal normal 74px/111px var(--poppins);
+  letter-spacing: 0px;
+  color: var(--white);
+  font-size: 74px;
+}
+
+h3{
+
+  font: normal normal normal 67px/80px MonsterClubhouse;
+  letter-spacing: 0px;
+  color: var(--white);
+}
+h2{
+
+  font: normal normal normal 67px/80px MonsterClubhouse;
+  letter-spacing: 0px;
+  color: var(--red);
+}
+
+h4{
+
+  font: normal normal normal 56px/67px MonsterClubhouse;
+  letter-spacing: 0px;
+  color: var(--darkBlue);
+}
+h5{
+
+  font: normal normal normal 30px/36px var(--poppins);
+  letter-spacing: -0.6px;
+  color: var(--red);
+
+}
+h6{
+
+  font: normal normal normal 30px/36px MonsterClubhouse;
+  letter-spacing: -0.6px;
+  color: var(--red);
+
+}
